@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **MERN stack projects**  
 - 🌱 I’m currently learning **DevOps & Cloud Technologies**  
 - 💬 Ask me about **React.js, Node.js, MongoDB, AWS, UI/UX**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-linkedin)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sagar-panchal-79284921a/)**  
 
 ### 🚀 Tech Stack:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
