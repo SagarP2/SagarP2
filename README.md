@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Panchal</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | DevOps Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sagarp2&theme=onedark" alt="sagarp2" />
-  </a>
-</p>
+
 
 ## 🚀 About Me  
 
@@ -86,6 +82,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sagarp2&theme=onedark" alt="sagarp2" />
+  </a>
+</p>
 
 ⭐ **Fun fact:** _I think I am funny 😆_
 
