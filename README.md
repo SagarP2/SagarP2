@@ -14,77 +14,18 @@
 - 🤝 I’m looking for help with **DevOps & Cloud Technologies**  
 - 🌱 I’m currently learning **AWS, Docker, Kubernetes, CI/CD**  
 - 💬 Ask me about **React, Vue, and GSAP**  
-- 📫 How to reach me **panchalsagar992003@gmail.com**  
+ 
 
 ## 📲 Connect with Me  
 
-<p align="left">
-  <a href="https://linkedin.com/in/sagar-panchal-79284921a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/8hhmes2loc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
 
 ## 🛠️ Languages and Tools  
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats  
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarp2&show_icons=true&locale=en&layout=compact&theme=radical" alt="sagarp2" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarp2&show_icons=true&locale=en&theme=radical" alt="sagarp2" />
-</p>
-
----
-
-⭐ **Fun fact:** _I think I am funny 😆_
-
-
-
-
-
-
-
-
-
-<h2 align="left">Hi 👋, I'm Sagar Panchal<br>Full Stack Developer | MERN Stack | DevOps Enthusiast<br>🚀 About Me<br>🔭 I’m currently working on BetterOff Studio Clone<br>👯 I’m looking to collaborate on Open-source MERN stack projects<br>🤝 I’m looking for help with DevOps & Cloud Technologies<br>🌱 I’m currently learning AWS, Docker, Kubernetes, CI/CD<br>💬 Ask me about React, Vue, and GSAP</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -134,12 +75,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
+## 📊 GitHub Stats  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarp2&show_icons=true&locale=en&layout=compact&theme=radical" alt="sagarp2" />
+</p>
 
-###
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarp2&show_icons=true&locale=en&theme=radical" alt="sagarp2" />
+</p>
+
+---
+
+⭐ **Fun fact:** _I think I am funny 😆_
+
+
+
