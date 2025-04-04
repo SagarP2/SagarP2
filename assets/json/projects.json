@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "category": "E-commerce",
+        "liveDemo": "https://chatify-app.example.com",
+        "title": "Event",
+        "techStack": [
+            "React",
+            "Node.js",
+            "Socket.IO",
+            "MongoDB"
+        ],
+        "purpose": "To enable seamless communication between users.",
+        "role": "Full-Stack Developer",
+        "description": "This is an innovative and modern app design with cutting-edge technology.",
+        "index-image": "assets/img/portfolio/app-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=1",
+        "images": [
+            "assets/img/portfolio/app-1.jpg",
+            "assets/img/portfolio/app-2.jpg",
+            "assets/img/portfolio/app-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Real-Time Messaging",
+                "description": "Instant message delivery using WebSocket."
+            },
+            {
+                "name": "User Authentication",
+                "description": "Secure login with JWT and hashed passwords."
+            },
+            {
+                "name": "Dark Mode",
+                "description": "Intuitive UI with light/dark themes."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [
+                "Built dynamic components using React.",
+                "Styled with Material-UI for a modern design."
+            ],
+            "backend": [
+                "Integrated WebSocket for real-time messaging.",
+                "Developed APIs for user management and chat storage."
+            ],
+            "database": "Used MongoDB to store user and message data.",
+            "tools": [
+                "Used GitHub for version control.",
+                "Deployed using Netlify for the frontend and Heroku for the backend."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Real-time sync issues with collaborative features.",
+                "solution": "Integrated Socket.IO with efficient event handling."
+            },
+            {
+                "problem": "Database performance during peak usage.",
+                "solution": "Implemented indexing and optimized queries."
+            }
+        ],
+        "learningOutcomes": [
+            "Improved understanding of WebSocket and real-time communication.",
+            "Gained experience in managing scalable database systems."
+        ]
+    },
+    {
+        "id": 2,
+        "category": "UI-design",
+        "liveDemo": "https://product-1.example.com",
+        "title": "Product 1",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "purpose": "To solve real-world problems through innovative design.",
+        "role": "Frontend Developer",
+        "description": "Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. ",
+        "index-image": "assets/img/portfolio/product-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=2",
+        "images": [
+            "assets/img/portfolio/product-1.jpg",
+            "assets/img/portfolio/product-2.jpg",
+            "assets/img/portfolio/product-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Custom Animations",
+                "description": "Eye-catching animations to enhance user experience."
+            },
+            {
+                "name": "Cross-Browser Compatibility",
+                "description": "Seamless performance across all major browsers."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [
+                "Designed with semantic HTML.Styled using CSS3 and JavaScript for dynamic behavior."
+            ],
+            "backend": "",
+            "database": "",
+            "tools": [
+                "Used Git for version control.",
+                "Tested for compatibility on major browsers."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Cross-browser inconsistencies.",
+                "solution": "Used polyfills and CSS resets for uniformity."
+            }
+        ],
+        "learningOutcomes": [
+            "Improved cross-browser compatibility skills.",
+            "Gained experience in frontend animations."
+        ]
+    },
+    {
+        "id": 3,
+        "category": "App",
+        "liveDemo": "https://branding-1.example.com",
+        "title": "Branding 1",
+        "techStack": [
+            "Photoshop",
+            "Illustrator"
+        ],
+        "purpose": "To redefine visual identity for modern businesses.",
+        "role": "Graphic Designer",
+        "description": "A creative branding project focused on delivering a strong visual identity.",
+        "index-image": "assets/img/portfolio/branding-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=3",
+        "images": [
+            "assets/img/portfolio/branding-1.jpg",
+            "assets/img/portfolio/branding-2.jpg",
+            "assets/img/portfolio/branding-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Logo Design",
+                "description": "Created unique and memorable logos."
+            },
+            {
+                "name": "Brand Guidelines",
+                "description": "Defined cohesive branding elements and styles."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [],
+            "backend": [],
+            "database": "",
+            "tools": [
+                "Used Adobe Photoshop and Illustrator for design."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Maintaining brand consistency.",
+                "solution": "Developed a detailed branding guide."
+            }
+        ],
+        "learningOutcomes": [
+            "Gained expertise in logo design.",
+            "Learned advanced branding techniques."
+        ]
+    },
+    {
+        "id": 4,
+        "category": "E-commerce",
+        "liveDemo": "https://chatify-app.example.com",
+        "title": "Event",
+        "techStack": [
+            "React",
+            "Node.js",
+            "Socket.IO",
+            "MongoDB"
+        ],
+        "purpose": "To enable seamless communication between users.",
+        "role": "Full-Stack Developer",
+        "description": "This is an innovative and modern app design with cutting-edge technology.",
+        "index-image": "assets/img/portfolio/app-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=1",
+        "images": [
+            "assets/img/portfolio/app-1.jpg",
+            "assets/img/portfolio/app-2.jpg",
+            "assets/img/portfolio/app-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Real-Time Messaging",
+                "description": "Instant message delivery using WebSocket."
+            },
+            {
+                "name": "User Authentication",
+                "description": "Secure login with JWT and hashed passwords."
+            },
+            {
+                "name": "Dark Mode",
+                "description": "Intuitive UI with light/dark themes."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [
+                "Built dynamic components using React.",
+                "Styled with Material-UI for a modern design."
+            ],
+            "backend": [
+                "Integrated WebSocket for real-time messaging.",
+                "Developed APIs for user management and chat storage."
+            ],
+            "database": "Used MongoDB to store user and message data.",
+            "tools": [
+                "Used GitHub for version control.",
+                "Deployed using Netlify for the frontend and Heroku for the backend."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Real-time sync issues with collaborative features.",
+                "solution": "Integrated Socket.IO with efficient event handling."
+            },
+            {
+                "problem": "Database performance during peak usage.",
+                "solution": "Implemented indexing and optimized queries."
+            }
+        ],
+        "learningOutcomes": [
+            "Improved understanding of WebSocket and real-time communication.",
+            "Gained experience in managing scalable database systems."
+        ]
+    },
+    {
+        "id": 5,
+        "category": "UI-design",
+        "liveDemo": "https://product-1.example.com",
+        "title": "Product 1",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "purpose": "To solve real-world problems through innovative design.",
+        "role": "Frontend Developer",
+        "description": "Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. ",
+        "index-image": "assets/img/portfolio/product-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=2",
+        "images": [
+            "assets/img/portfolio/product-1.jpg",
+            "assets/img/portfolio/product-2.jpg",
+            "assets/img/portfolio/product-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Custom Animations",
+                "description": "Eye-catching animations to enhance user experience."
+            },
+            {
+                "name": "Cross-Browser Compatibility",
+                "description": "Seamless performance across all major browsers."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [
+                "Designed with semantic HTML.Styled using CSS3 and JavaScript for dynamic behavior."
+            ],
+            "backend": "",
+            "database": "",
+            "tools": [
+                "Used Git for version control.",
+                "Tested for compatibility on major browsers."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Cross-browser inconsistencies.",
+                "solution": "Used polyfills and CSS resets for uniformity."
+            }
+        ],
+        "learningOutcomes": [
+            "Improved cross-browser compatibility skills.",
+            "Gained experience in frontend animations."
+        ]
+    },
+    {
+        "id": 6,
+        "category": "App",
+        "liveDemo": "https://branding-1.example.com",
+        "title": "Branding 1",
+        "techStack": [
+            "Photoshop",
+            "Illustrator"
+        ],
+        "purpose": "To redefine visual identity for modern businesses.",
+        "role": "Graphic Designer",
+        "description": "A creative branding project focused on delivering a strong visual identity.",
+        "index-image": "assets/img/portfolio/branding-1.jpg",
+        "detailsUrl": "portfolio-details.html?projectId=3",
+        "images": [
+            "assets/img/portfolio/branding-1.jpg",
+            "assets/img/portfolio/branding-2.jpg",
+            "assets/img/portfolio/branding-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Logo Design",
+                "description": "Created unique and memorable logos."
+            },
+            {
+                "name": "Brand Guidelines",
+                "description": "Defined cohesive branding elements and styles."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [],
+            "backend": [],
+            "database": "",
+            "tools": [
+                "Used Adobe Photoshop and Illustrator for design."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Maintaining brand consistency.",
+                "solution": "Developed a detailed branding guide."
+            }
+        ],
+        "learningOutcomes": [
+            "Gained expertise in logo design.",
+            "Learned advanced branding techniques."
+        ]
+    }
+]
