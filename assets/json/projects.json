@@ -1,332 +1,553 @@
 [
+    
     {
         "id": 1,
-        "category": "E-commerce",
-        "liveDemo": "https://chatify-app.example.com",
-        "title": "Event",
+        "category": "App",
+        "liveDemo": null,
+        "title": "Medical System",
         "techStack": [
-            "React",
-            "Node.js",
-            "Socket.IO",
-            "MongoDB"
+            "C#",
+            ".NET",
+            "SQL Server",
+            "JavaScript",
+            "CSS"
         ],
-        "purpose": "To enable seamless communication between users.",
+        "purpose": "To efficiently manage medical records, appointments, and patient details, providing a seamless experience for doctors, patients, and administrators.",
         "role": "Full-Stack Developer",
-        "description": "This is an innovative and modern app design with cutting-edge technology.",
-        "index-image": "assets/img/portfolio/app-1.jpg",
-        "detailsUrl": "portfolio-details.html?projectId=1",
+        "description": "A C# .NET application designed to streamline the management of medical records, appointments, and patient information with a responsive user interface.",
+        "index-image": "assets/img/portfolio/medical-system.png",
+        "detailsUrl": "portfolio-details.html?projectId=2",
         "images": [
-            "assets/img/portfolio/app-1.jpg",
-            "assets/img/portfolio/app-2.jpg",
-            "assets/img/portfolio/app-3.jpg"
+            "assets/img/portfolio/medical-system-1.jpg",
+            "assets/img/portfolio/medical-system-2.jpg",
+            "assets/img/portfolio/medical-system-3.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Real-Time Messaging",
-                "description": "Instant message delivery using WebSocket."
+                "name": "Patient Management",
+                "description": "Register, update, and view patient records."
+            },
+            {
+                "name": "Appointment Scheduling",
+                "description": "Book, reschedule, and cancel appointments."
+            },
+            {
+                "name": "Doctor Management",
+                "description": "Assign doctors to patients and manage their schedules."
+            },
+            {
+                "name": "Prescription Handling",
+                "description": "Generate and track prescriptions."
+            },
+            {
+                "name": "Reports & Analytics",
+                "description": "View reports on patient history and medical statistics."
             },
             {
                 "name": "User Authentication",
-                "description": "Secure login with JWT and hashed passwords."
+                "description": "Secure login system with role-based access."
             },
             {
-                "name": "Dark Mode",
-                "description": "Intuitive UI with light/dark themes."
+                "name": "Responsive UI",
+                "description": "Intuitive interface built using modern web technologies."
             }
         ],
         "technicalDetails": {
             "frontend": [
-                "Built dynamic components using React.",
-                "Styled with Material-UI for a modern design."
+                "Developed responsive UI using HTML, CSS, and JavaScript.",
+                "Implemented dynamic content rendering for medical records and appointments."
             ],
             "backend": [
-                "Integrated WebSocket for real-time messaging.",
-                "Developed APIs for user management and chat storage."
+                "Built with C# and .NET to handle server-side logic and database interactions.",
+                "Implemented secure authentication and authorization mechanisms."
             ],
-            "database": "Used MongoDB to store user and message data.",
+            "database": "Utilized SQL Server to store patient data, appointment details, and medical records.",
             "tools": [
                 "Used GitHub for version control.",
-                "Deployed using Netlify for the frontend and Heroku for the backend."
+                "Managed dependencies with NuGet."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Real-time sync issues with collaborative features.",
-                "solution": "Integrated Socket.IO with efficient event handling."
+                "problem": "Ensuring data security and patient confidentiality.",
+                "solution": "Implemented robust authentication protocols and data encryption techniques."
             },
             {
-                "problem": "Database performance during peak usage.",
-                "solution": "Implemented indexing and optimized queries."
+                "problem": "Managing concurrent appointment scheduling and avoiding conflicts.",
+                "solution": "Developed logic to check availability and prevent double-booking."
             }
         ],
         "learningOutcomes": [
-            "Improved understanding of WebSocket and real-time communication.",
-            "Gained experience in managing scalable database systems."
+            "Enhanced skills in C# and .NET for web application development.",
+            "Gained experience in implementing secure authentication systems and managing sensitive data."
         ]
     },
     {
         "id": 2,
-        "category": "UI-design",
-        "liveDemo": "https://product-1.example.com",
-        "title": "Product 1",
+        "category": "E-commerce ",
+        "liveDemo": null,
+        "title": "Event Management System",
         "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "PHP",
+            "MySQL",
+            "JavaScript",
+            "CSS"
         ],
-        "purpose": "To solve real-world problems through innovative design.",
-        "role": "Frontend Developer",
-        "description": "Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. ",
-        "index-image": "assets/img/portfolio/product-1.jpg",
-        "detailsUrl": "portfolio-details.html?projectId=2",
+        "purpose": "To streamline event planning and management by providing a user-friendly platform for event creation, registration, and attendee management.",
+        "role": "Full-Stack Developer",
+        "description": "A PHP-based web application that facilitates event creation, user registration, and attendee management with an intuitive admin dashboard.",
+        "index-image": "assets/img/portfolio/event-management-system.png",
+        "detailsUrl": "portfolio-details.html?projectId=1",
         "images": [
-            "assets/img/portfolio/product-1.jpg",
-            "assets/img/portfolio/product-2.jpg",
-            "assets/img/portfolio/product-3.jpg"
+            "assets/img/portfolio/event-management-system-1.jpg",
+            "assets/img/portfolio/event-management-system-2.jpg",
+            "assets/img/portfolio/event-management-system-3.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Custom Animations",
-                "description": "Eye-catching animations to enhance user experience."
+                "name": "User Authentication",
+                "description": "Secure login and registration system for users and administrators."
             },
             {
-                "name": "Cross-Browser Compatibility",
-                "description": "Seamless performance across all major browsers."
+                "name": "Event Creation",
+                "description": "Admins can create events with details like title, description, date, location, and capacity."
+            },
+            {
+                "name": "Event Registration",
+                "description": "Users can register for events, with the system managing attendee lists and event capacity."
+            },
+            {
+                "name": "Admin Dashboard",
+                "description": "Intuitive dashboard for administrators to manage events and view attendee information."
             }
         ],
         "technicalDetails": {
             "frontend": [
-                "Designed with semantic HTML.Styled using CSS3 and JavaScript for dynamic behavior."
+                "Developed responsive UI using HTML, CSS, and JavaScript.",
+                "Implemented dynamic content rendering for event listings."
             ],
-            "backend": "",
-            "database": "",
+            "backend": [
+                "Built with PHP to handle server-side logic and database interactions.",
+                "Implemented secure authentication and authorization mechanisms."
+            ],
+            "database": "Utilized MySQL to store user data, event details, and registrations.",
             "tools": [
-                "Used Git for version control.",
-                "Tested for compatibility on major browsers."
+                "Used GitHub for version control.",
+                "Managed dependencies with Composer."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Cross-browser inconsistencies.",
-                "solution": "Used polyfills and CSS resets for uniformity."
+                "problem": "Ensuring secure user authentication and data protection.",
+                "solution": "Implemented robust authentication protocols and data validation techniques."
+            },
+            {
+                "problem": "Managing event capacity and preventing overbooking.",
+                "solution": "Developed logic to track registrations and disable sign-ups once capacity is reached."
             }
         ],
         "learningOutcomes": [
-            "Improved cross-browser compatibility skills.",
-            "Gained experience in frontend animations."
+            "Enhanced skills in PHP and MySQL for web application development.",
+            "Gained experience in implementing secure authentication systems and managing user data."
         ]
     },
     {
         "id": 3,
-        "category": "App",
-        "liveDemo": "https://branding-1.example.com",
-        "title": "Branding 1",
+        "category": "Hospitality Application",
+        "liveDemo": null,
+        "title": "Cafe Management System",
         "techStack": [
-            "Photoshop",
-            "Illustrator"
+            "PHP",
+            "XAMPP",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "jQuery"
         ],
-        "purpose": "To redefine visual identity for modern businesses.",
-        "role": "Graphic Designer",
-        "description": "A creative branding project focused on delivering a strong visual identity.",
-        "index-image": "assets/img/portfolio/branding-1.jpg",
+        "purpose": "To efficiently manage cafe operations, including orders, menu items, inventory, and billing, providing a seamless experience for staff and administrators.",
+        "role": "Full-Stack Developer",
+        "description": "A fully functional Cafe Management System built with PHP and XAMPP, designed to streamline cafe operations with features like user authentication, menu management, order processing, inventory management, and sales analytics.",
+        "index-image": "assets/img/portfolio/cafe-management-system.jpg",
         "detailsUrl": "portfolio-details.html?projectId=3",
         "images": [
-            "assets/img/portfolio/branding-1.jpg",
-            "assets/img/portfolio/branding-2.jpg",
-            "assets/img/portfolio/branding-3.jpg"
+            "assets/img/portfolio/cafe-management-system-1.jpg",
+            "assets/img/portfolio/cafe-management-system-2.jpg",
+            "assets/img/portfolio/cafe-management-system-3.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Logo Design",
-                "description": "Created unique and memorable logos."
+                "name": "User Authentication",
+                "description": "Secure login system for administrators and staff."
             },
             {
-                "name": "Brand Guidelines",
-                "description": "Defined cohesive branding elements and styles."
+                "name": "Menu Management",
+                "description": "Add, edit, and delete menu items with ease."
+            },
+            {
+                "name": "Order Processing & Billing",
+                "description": "Efficiently process customer orders and generate bills."
+            },
+            {
+                "name": "Inventory Management",
+                "description": "Track and manage inventory levels to prevent stockouts."
+            },
+            {
+                "name": "Sales Reports & Analytics",
+                "description": "Generate reports to analyze sales performance and trends."
+            },
+            {
+                "name": "Responsive UI",
+                "description": "User-friendly interface accessible on various devices."
             }
         ],
         "technicalDetails": {
-            "frontend": [],
-            "backend": [],
-            "database": "",
+            "frontend": [
+                "Developed responsive UI using HTML, CSS, and JavaScript.",
+                "Utilized Bootstrap and jQuery for enhanced interactivity and design."
+            ],
+            "backend": [
+                "Built with PHP to handle server-side logic and database interactions.",
+                "Implemented secure authentication and authorization mechanisms."
+            ],
+            "database": "Utilized MySQL (via XAMPP) to store menu items, orders, inventory data, and user information.",
             "tools": [
-                "Used Adobe Photoshop and Illustrator for design."
+                "Used GitHub for version control.",
+                "Managed local development environment with XAMPP."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Maintaining brand consistency.",
-                "solution": "Developed a detailed branding guide."
+                "problem": "Ensuring data consistency between orders and inventory.",
+                "solution": "Implemented transactional operations to update inventory levels upon order processing."
+            },
+            {
+                "problem": "Designing an intuitive interface for non-technical staff.",
+                "solution": "Utilized Bootstrap for a clean design and conducted user testing for feedback."
             }
         ],
         "learningOutcomes": [
-            "Gained expertise in logo design.",
-            "Learned advanced branding techniques."
+            "Enhanced skills in PHP and MySQL for web application development.",
+            "Gained experience in implementing responsive designs using Bootstrap and jQuery.",
+            "Learned effective strategies for inventory management and sales analytics in a retail environment."
         ]
     },
     {
         "id": 4,
-        "category": "E-commerce",
-        "liveDemo": "https://chatify-app.example.com",
-        "title": "Event",
+        "category": "Document Management",
+        "liveDemo": null,
+        "title": "PDF Edit Tool",
         "techStack": [
-            "React",
+            "React.js",
             "Node.js",
-            "Socket.IO",
-            "MongoDB"
+            "PDF.js",
+            "JavaScript",
+            "CSS"
         ],
-        "purpose": "To enable seamless communication between users.",
+        "purpose": "To provide a web-based platform for users to edit PDF documents, including text modification, annotation, merging, and splitting, with a seamless user interface.",
         "role": "Full-Stack Developer",
-        "description": "This is an innovative and modern app design with cutting-edge technology.",
-        "index-image": "assets/img/portfolio/app-1.jpg",
-        "detailsUrl": "portfolio-details.html?projectId=1",
+        "description": "A comprehensive web application that enables users to perform various PDF editing tasks directly in the browser, leveraging modern web technologies for an intuitive experience.",
+        "index-image": "assets/img/portfolio/pdf-edit-tool.png",
+        "detailsUrl": "portfolio-details.html?projectId=4",
         "images": [
-            "assets/img/portfolio/app-1.jpg",
-            "assets/img/portfolio/app-2.jpg",
-            "assets/img/portfolio/app-3.jpg"
+            "assets/img/portfolio/pdf-edit-tool-1.jpg",
+            "assets/img/portfolio/pdf-edit-tool-2.jpg",
+            "assets/img/portfolio/pdf-edit-tool-3.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Real-Time Messaging",
-                "description": "Instant message delivery using WebSocket."
+                "name": "Text Modification",
+                "description": "Edit and update text content within PDF documents."
             },
             {
-                "name": "User Authentication",
-                "description": "Secure login with JWT and hashed passwords."
+                "name": "Annotations",
+                "description": "Add comments, highlights, and other annotations to PDFs."
             },
             {
-                "name": "Dark Mode",
-                "description": "Intuitive UI with light/dark themes."
+                "name": "Merging PDFs",
+                "description": "Combine multiple PDF files into a single document."
+            },
+            {
+                "name": "Splitting PDFs",
+                "description": "Divide a single PDF into multiple separate files."
+            },
+            {
+                "name": "User-Friendly Interface",
+                "description": "Intuitive UI designed for seamless user experience."
             }
         ],
         "technicalDetails": {
             "frontend": [
-                "Built dynamic components using React.",
-                "Styled with Material-UI for a modern design."
+                "Built with React.js to create dynamic and responsive user interfaces.",
+                "Utilized PDF.js for rendering and manipulating PDF documents in the browser."
             ],
             "backend": [
-                "Integrated WebSocket for real-time messaging.",
-                "Developed APIs for user management and chat storage."
+                "Developed with Node.js to handle server-side operations and API requests.",
+                "Implemented RESTful APIs for efficient communication between client and server."
             ],
-            "database": "Used MongoDB to store user and message data.",
+            "database": "Not specified; the application may operate without a traditional database, focusing on in-memory or file-based operations.",
             "tools": [
-                "Used GitHub for version control.",
-                "Deployed using Netlify for the frontend and Heroku for the backend."
+                "Used GitHub for version control and project collaboration."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Real-time sync issues with collaborative features.",
-                "solution": "Integrated Socket.IO with efficient event handling."
+                "problem": "Rendering and editing PDFs directly in the browser.",
+                "solution": "Integrated PDF.js to enable client-side PDF manipulation and display."
             },
             {
-                "problem": "Database performance during peak usage.",
-                "solution": "Implemented indexing and optimized queries."
+                "problem": "Ensuring a smooth and responsive user experience during complex PDF operations.",
+                "solution": "Optimized React components and managed state effectively to maintain performance."
             }
         ],
         "learningOutcomes": [
-            "Improved understanding of WebSocket and real-time communication.",
-            "Gained experience in managing scalable database systems."
+            "Deepened understanding of PDF rendering and manipulation using PDF.js.",
+            "Enhanced skills in building full-stack applications with React.js and Node.js.",
+            "Gained experience in creating intuitive user interfaces for document editing tools."
         ]
     },
     {
         "id": 5,
-        "category": "UI-design",
-        "liveDemo": "https://product-1.example.com",
-        "title": "Product 1",
+        "category": "UI - Design",
+        "liveDemo": null,
+        "title": "Rabbit Case",
         "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "React.js",
+            "Redux",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
         ],
-        "purpose": "To solve real-world problems through innovative design.",
-        "role": "Frontend Developer",
-        "description": "Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. Creative product solution designed to solve real-world problems. ",
-        "index-image": "assets/img/portfolio/product-1.jpg",
-        "detailsUrl": "portfolio-details.html?projectId=2",
+        "purpose": "To provide a seamless and efficient case management system that allows users to manage cases, collaborate in real-time, and track changes effectively.",
+        "role": "Full-Stack Developer",
+        "description": "Rabbit Case is a web application designed to enhance workflow efficiency for businesses and legal professionals by offering powerful case management features within a user-friendly interface.",
+        "index-image": "assets/img/portfolio/rabbit-case.png",
+        "detailsUrl": "portfolio-details.html?projectId=5",
         "images": [
-            "assets/img/portfolio/product-1.jpg",
-            "assets/img/portfolio/product-2.jpg",
-            "assets/img/portfolio/product-3.jpg"
+            "assets/img/portfolio/rabbit-case-1.jpg",
+            "assets/img/portfolio/rabbit-case-2.jpg",
+            "assets/img/portfolio/rabbit-case-3.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Custom Animations",
-                "description": "Eye-catching animations to enhance user experience."
+                "name": "Case Management",
+                "description": "Create, update, and monitor cases with detailed information and status tracking."
             },
             {
-                "name": "Cross-Browser Compatibility",
-                "description": "Seamless performance across all major browsers."
+                "name": "Real-Time Collaboration",
+                "description": "Collaborate with team members in real-time to discuss and manage case details."
+            },
+            {
+                "name": "Change Tracking",
+                "description": "Track all changes made to cases to maintain a comprehensive history."
+            },
+            {
+                "name": "User Authentication",
+                "description": "Secure login system with role-based access control."
+            },
+            {
+                "name": "Responsive Design",
+                "description": "Accessible on various devices with a responsive and intuitive interface."
             }
         ],
         "technicalDetails": {
             "frontend": [
-                "Designed with semantic HTML.Styled using CSS3 and JavaScript for dynamic behavior."
+                "Developed using React.js for building dynamic and responsive user interfaces.",
+                "Managed application state with Redux for predictable state management."
             ],
-            "backend": "",
-            "database": "",
+            "backend": [
+                "Built with Node.js and Express.js to handle server-side logic and API routing.",
+                "Implemented RESTful APIs for seamless communication between the frontend and backend."
+            ],
+            "database": "Utilized MongoDB to store case data, user information, and collaboration logs.",
             "tools": [
-                "Used Git for version control.",
-                "Tested for compatibility on major browsers."
+                "Used GitHub for version control and project collaboration.",
+                "Managed dependencies with npm."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Cross-browser inconsistencies.",
-                "solution": "Used polyfills and CSS resets for uniformity."
+                "problem": "Ensuring real-time collaboration without data conflicts.",
+                "solution": "Implemented WebSocket communication to enable real-time updates and conflict resolution strategies."
+            },
+            {
+                "problem": "Maintaining a comprehensive change history for cases.",
+                "solution": "Developed a change tracking system that logs all modifications with timestamps and user information."
             }
         ],
         "learningOutcomes": [
-            "Improved cross-browser compatibility skills.",
-            "Gained experience in frontend animations."
+            "Enhanced skills in building full-stack applications with React.js, Node.js, and MongoDB.",
+            "Gained experience in implementing real-time features using WebSockets.",
+            "Learned effective strategies for state management using Redux."
         ]
     },
     {
         "id": 6,
-        "category": "App",
-        "liveDemo": "https://branding-1.example.com",
-        "title": "Branding 1",
+        "category": "Authentication System",
+        "liveDemo": null,
+        "title": "MERN Login & Registration",
         "techStack": [
-            "Photoshop",
-            "Illustrator"
+            "MongoDB",
+            "Express.js",
+            "React.js",
+            "Node.js",
+            "JWT",
+            "bcrypt.js"
         ],
-        "purpose": "To redefine visual identity for modern businesses.",
-        "role": "Graphic Designer",
-        "description": "A creative branding project focused on delivering a strong visual identity.",
-        "index-image": "assets/img/portfolio/branding-1.jpg",
-        "detailsUrl": "portfolio-details.html?projectId=3",
+        "purpose": "To provide a secure and efficient user authentication system with modern security practices.",
+        "role": "Full-Stack Developer",
+        "description": "A full-stack authentication solution built with the MERN stack, offering user registration, login, JWT-based authentication, password hashing with bcrypt.js, protected routes, and role-based access control.",
+        "index-image": "assets/img/portfolio/mern-login-register.png",
+        "detailsUrl": "portfolio-details.html?projectId=6",
         "images": [
-            "assets/img/portfolio/branding-1.jpg",
-            "assets/img/portfolio/branding-2.jpg",
-            "assets/img/portfolio/branding-3.jpg"
+            "assets/img/portfolio/mern-login-register-1.jpg",
+            "assets/img/portfolio/mern-login-register-2.jpg"
         ],
         "keyFeatures": [
             {
-                "name": "Logo Design",
-                "description": "Created unique and memorable logos."
+                "name": "User Registration",
+                "description": "Secure signup with validation."
             },
             {
-                "name": "Brand Guidelines",
-                "description": "Defined cohesive branding elements and styles."
+                "name": "Login & Authentication",
+                "description": "JWT-based authentication for session management."
+            },
+            {
+                "name": "Password Hashing",
+                "description": "Secure password storage using bcrypt.js."
+            },
+            {
+                "name": "Protected Routes",
+                "description": "Access control for authenticated users only."
+            },
+            {
+                "name": "Role-Based Access Control",
+                "description": "Manage user roles and permissions."
+            },
+            {
+                "name": "Email Verification (Optional)",
+                "description": "Enable account confirmation via email."
+            },
+            {
+                "name": "Responsive UI",
+                "description": "Built with React.js for a smooth user experience."
             }
         ],
         "technicalDetails": {
-            "frontend": [],
-            "backend": [],
-            "database": "",
+            "frontend": [
+                "Developed using React.js for dynamic and responsive user interfaces.",
+                "Implemented form validation and state management."
+            ],
+            "backend": [
+                "Built with Node.js and Express.js to handle server-side logic and API routing.",
+                "Implemented JWT for authentication and bcrypt.js for password hashing."
+            ],
+            "database": "Utilized MongoDB to store user information securely.",
             "tools": [
-                "Used Adobe Photoshop and Illustrator for design."
+                "Used GitHub for version control.",
+                "Managed dependencies with npm."
             ]
         },
         "challengesSolved": [
             {
-                "problem": "Maintaining brand consistency.",
-                "solution": "Developed a detailed branding guide."
+                "problem": "Ensuring secure password storage.",
+                "solution": "Implemented bcrypt.js to hash passwords before storing them in the database."
+            },
+            {
+                "problem": "Managing user sessions securely.",
+                "solution": "Utilized JWT for stateless authentication and session management."
             }
         ],
         "learningOutcomes": [
-            "Gained expertise in logo design.",
-            "Learned advanced branding techniques."
+            "Enhanced skills in building full-stack applications with the MERN stack.",
+            "Gained experience in implementing secure authentication systems.",
+            "Learned effective strategies for role-based access control and protected routes."
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Company Portfolio",
+        "liveDemo": null,
+        "title": "RabbitCode Portfolio",
+        "techStack": [
+            "MongoDB",
+            "Express.js",
+            "React.js",
+            "Node.js",
+            "TailwindCSS",
+            "AWS S3"
+        ],
+        "purpose": "To create a professional portfolio that dynamically showcases projects, skills, and work experiences with a modern and responsive design.",
+        "role": "Full-Stack Developer",
+        "description": "RabbitCode Portfolio is a MERN stack-based application designed to present a developer's projects, skills, and experiences. It features dynamic project management, an interactive UI, optimized performance, and AWS S3 integration for asset management.",
+        "index-image": "assets/img/portfolio/rabbitcode-portfolio.png",
+        "detailsUrl": "portfolio-details.html?projectId=7",
+        "images": [
+            "assets/img/portfolio/rabbitcode-portfolio-1.jpg",
+            "assets/img/portfolio/rabbitcode-portfolio-2.jpg",
+            "assets/img/portfolio/rabbitcode-portfolio-3.jpg"
+        ],
+        "keyFeatures": [
+            {
+                "name": "Dynamic Project Showcase",
+                "description": "Add, update, and manage projects seamlessly."
+            },
+            {
+                "name": "Interactive UI",
+                "description": "Built with React.js and TailwindCSS for a modern, responsive design."
+            },
+            {
+                "name": "Backend with Node.js & Express.js",
+                "description": "Handles API requests efficiently."
+            },
+            {
+                "name": "MongoDB Database",
+                "description": "Stores project and portfolio details securely."
+            },
+            {
+                "name": "Optimized Performance",
+                "description": "Ensures fast loading and smooth navigation."
+            },
+            {
+                "name": "AWS S3 Integration",
+                "description": "Supports hosting and asset management."
+            }
+        ],
+        "technicalDetails": {
+            "frontend": [
+                "Developed using React.js for dynamic and responsive user interfaces.",
+                "Styled with TailwindCSS for a modern design."
+            ],
+            "backend": [
+                "Built with Node.js and Express.js to handle server-side logic and API routing.",
+                "Implemented RESTful APIs for seamless communication between the frontend and backend."
+            ],
+            "database": "Utilized MongoDB to store project details, skills, and experience information.",
+            "cloudServices": [
+                "Integrated AWS S3 for hosting and managing assets."
+            ],
+            "tools": [
+                "Used GitHub for version control.",
+                "Managed dependencies with npm."
+            ]
+        },
+        "challengesSolved": [
+            {
+                "problem": "Ensuring dynamic content management for projects.",
+                "solution": "Implemented a backend system that allows easy addition and updating of project details stored in MongoDB."
+            },
+            {
+                "problem": "Achieving a responsive and modern design.",
+                "solution": "Utilized React.js and TailwindCSS to create an interactive and adaptable user interface."
+            }
+        ],
+        "learningOutcomes": [
+            "Enhanced skills in building full-stack applications with the MERN stack.",
+            "Gained experience in integrating cloud services like AWS S3 for asset management.",
+            "Learned effective strategies for creating dynamic and responsive user interfaces."
         ]
     }
+        
+    
+        
 ]

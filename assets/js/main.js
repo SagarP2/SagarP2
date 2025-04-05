@@ -310,6 +310,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 )}</li>`
               : ""
           }
+              
         `;
 
         // Add key features
