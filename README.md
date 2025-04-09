@@ -88,7 +88,7 @@
   </a>
 </p>
 
-⭐ **Fun fact:** _I think I am funny 😆_
+
 
 
 
