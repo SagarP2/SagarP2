@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I’m Sagar Panchal — a tech enthusiast and Software Intern at Sedulous Info Tec 🚀</h3>
+<h3 align="center">I’m Sagar Panchal</h3>
 
 <p align="center">Graduating with a Bachelor's in Information Technology 🎓 from Uka Tarsadia University</p>
 
