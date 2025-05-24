@@ -1,74 +1,68 @@
+# 👋 Hey there, I’m **Sagar Panchal**
 
 <div align="center">
-
-# 👋 Hey, I'm **Sagar Panchal**
-
-<div>
-  <a href="https://github.com/SagarP2">
-  
+  <a href="https://github.com/SagarP2" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/sagarpanchal0918/">
-   
+  <a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a **Full Stack Developer** specializing in the **MERN stack** with a passion for building sleek, performant web apps and embracing **DevOps & Cloud technologies**.  
-Currently learning, creating, and pushing the limits at **BMIIT, UTU**.
+> "Building performant, scalable web apps with a passion for DevOps & Cloud."  
 
----
-
-### 🛠️ What I Work With
-
-| Frontend               | Backend                  | Database             | Tools & Cloud                  |
-|------------------------|--------------------------|----------------------|-------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-F7991C?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+I’m a **Full Stack Developer** specializing in the **MERN stack** with an eye for clean, elegant code and scalable architecture.  
+Currently expanding my skillset at **BMIIT, UTU** — learning, experimenting, and pushing boundaries.
 
 ---
 
-### ✨ Featured Projects
+## 🛠️ Tech Stack & Tools
 
-| Project                     | Description                                               | Live Demo                                              | GitHub Repo                                               |
-|-----------------------------|-----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
-| 🚀 [ATS-System](https://github.com/SagarP2/ATS-System)       | Automated recruitment platform                            | [Live Demo](https://ats-system-live-link.com)           | [GitHub](https://github.com/SagarP2/ATS-System)           |
-| 
-| 🌐 [RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio) | MERN portfolio with AWS S3 integration                     | [Live](https://rabbitcodeportfolio.vercel.app)          | [GitHub](https://github.com/SagarP2/rabbitcode-portfolio) |
-| 🌐 [TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio) | React.js portfolio with Tailwind and admin panel          | [Live](https://techvedaportfolio.vercel.app)            | [GitHub](https://github.com/SagarP2/Techveda-Portfolio)   |
+| Frontend                       | Backend                      | Database                     | Cloud & DevOps                |
+|-------------------------------|------------------------------|------------------------------|------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28"/> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28"/> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="28"/> AWS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="28"/> TailwindCSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="28"/> Express.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28"/> Docker |
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
+
+| Project | Description | Live Demo | Code |
+|---|---|---|---|
+| 🚀 [ATS-System](https://github.com/SagarP2/ATS-System) | Automated recruitment platform leveraging MERN stack | [Demo](https://ats-system-live-link.com) | [GitHub](https://github.com/SagarP2/ATS-System) |
+| 🌐 [RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio) | MERN portfolio with AWS S3 integration | [Live](https://rabbitcodeportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/rabbitcode-portfolio) |
+| 🌐 [TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio) | React portfolio with Tailwind & admin panel | [Live](https://techvedaportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/Techveda-Portfolio) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical&count_private=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical&count_private=true" alt="Sagar's GitHub Stats" />
 </div>
 
 ---
 
-### 📫 Let’s Connect!
+## 📫 Let’s Connect!
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-
-
+  <a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SagarP2" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> I enjoy exploring new technologies, optimizing code for performance, and contributing to open-source projects!
+> I enjoy optimizing code for performance, exploring new tech, and contributing to open-source projects.
 
 ---
 
