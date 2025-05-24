@@ -1,7 +1,3 @@
-<!--
-  🌟 Unique & Modern GitHub README for Sagar Panchal
-  Style: Clean, organized, with icons & highlights
--->
 
 <div align="center">
 
@@ -9,14 +5,12 @@
 
 <div>
   <a href="https://github.com/SagarP2">
-    <img src="https://img.shields.io/github/followers/SagarP2?label=Follow&style=social" alt="Follow on GitHub"/>
+  
   </a>
-  <a href="https://linkedin.com/in/sagar-panchal">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sagarpanchal0918/">
+   
   </a>
-  <a href="https://twitter.com/SagarP2">
-    <img src="https://img.shields.io/twitter/follow/SagarP2?style=social" alt="Twitter"/>
-  </a>
+
 </div>
 
 ---
@@ -42,10 +36,9 @@ Currently learning, creating, and pushing the limits at **BMIIT, UTU**.
 | Project                     | Description                                               | Live Demo                                              | GitHub Repo                                               |
 |-----------------------------|-----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
 | 🚀 [ATS-System](https://github.com/SagarP2/ATS-System)       | Automated recruitment platform                            | [Live Demo](https://ats-system-live-link.com)           | [GitHub](https://github.com/SagarP2/ATS-System)           |
-| 📚 [Library Assistant](https://github.com/SagarP2/Library-Assistant) | Desktop app for managing libraries                        | N/A                                                    | [GitHub](https://github.com/SagarP2/Library-Assistant)    |
-| 💼 [Employer-Worker Registration](https://github.com/SagarP2/employer-worker-registration-system) | Java Swing app for workforce management                   | N/A                                                    | [GitHub](https://github.com/SagarP2/employer-worker-registration-system) |
+| 
 | 🌐 [RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio) | MERN portfolio with AWS S3 integration                     | [Live](https://rabbitcodeportfolio.vercel.app)          | [GitHub](https://github.com/SagarP2/rabbitcode-portfolio) |
-| 🎨 [TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio) | React.js portfolio with Tailwind and admin panel          | [Live](https://techvedaportfolio.vercel.app)            | [GitHub](https://github.com/SagarP2/Techveda-Portfolio)   |
+| 🌐 [TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio) | React.js portfolio with Tailwind and admin panel          | [Live](https://techvedaportfolio.vercel.app)            | [GitHub](https://github.com/SagarP2/Techveda-Portfolio)   |
 
 ---
 
@@ -63,17 +56,11 @@ Currently learning, creating, and pushing the limits at **BMIIT, UTU**.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sagar-panchal" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://twitter.com/SagarP2" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
 
-<a href="mailto:sagar.panchal@example.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 </div>
 
