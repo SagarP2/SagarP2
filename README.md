@@ -1,11 +1,6 @@
 # 👋 Hey there, I’m **Sagar Panchal**
 
 
-
-## 🚀 About Me
-
-> "Building performant, scalable web apps with a passion for DevOps & Cloud."  
-
 I’m a **Full Stack Developer** specializing in the **MERN stack** with an eye for clean, elegant code and scalable architecture.  
 Currently expanding my skillset at **BMIIT, UTU** — learning, experimenting, and pushing boundaries.
 
