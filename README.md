@@ -1,15 +1,6 @@
 # 👋 Hey there, I’m **Sagar Panchal**
 
-<div align="center">
-  <a href="https://github.com/SagarP2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
----
 
 ## 🚀 About Me
 
