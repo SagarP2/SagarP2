@@ -1,70 +1,54 @@
+# Hi, I'm Sagar Panchal 👋
 
-<h3 align="center">I’m Sagar Panchal</h3>
+## 🚀 About Me
+I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with strong skills in frontend and backend development. I am also enthusiastic about **DevOps** and **Cloud Technologies**, constantly learning and applying new tools and best practices.
 
-<p align="center">Graduating with a Bachelor's in Information Technology 🎓 from Uka Tarsadia University</p>
-
----
-
-🎯 **About Me**  
-- 💻 Full Stack Developer (MERN Stack)  
-- 🎨 Graphics & Motion Designer | 🎥 Video Editor  
-- 🌐 Web Developer (React.js, Node.js, PHP, WordPress, Android, Java)  
-- 📊 Passionate about Data Analysis and 🤖 AI/ML  
-- 🌱 Currently learning: AWS, Docker, Kubernetes, CI/CD  
-- 👯 Open to collaborate on exciting and impactful projects  
-- 🤝 Let’s connect and innovate together!
+Currently pursuing MERN Stack Development at BMIIT, UTU, I focus on building scalable, responsive, and efficient web applications that solve real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" />
-</div>
+- **Frontend:** React.js, Tailwind CSS, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, PostgreSQL
+- **Tools & Platforms:** GitHub, AWS (S3), Docker, Vercel, Visual Studio Code
+- **Other:** Java, JavaFX, Apache Derby, DevOps basics
+
+---
+
+## 📂 Projects
+
+Here are some of my highlighted projects:
+
+- **[ATS-System](https://github.com/SagarP2/ATS-System):** Applicant Tracking System for recruitment automation.
+- **[Library Assistant](https://github.com/SagarP2/Library-Assistant):** Desktop app for library management with JavaFX.
+- **[Employer-Worker Registration System](https://github.com/SagarP2/employer-worker-registration-system):** Java Swing app for managing employer-worker data.
+- **[RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio):** MERN stack portfolio with AWS S3 integration.
+- **[TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio):** Modern React.js developer portfolio with Tailwind CSS.
+
+Check out my repositories for more.
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SagarP2&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=SagarP2&theme=onedark" alt="GitHub Trophies" />
-</p>
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📲 Connect with Me
+## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagarpanchal18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sagarpanchal.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sagarpanchal.18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow-id"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+- LinkedIn: [linkedin.com/in/sagar-panchal](https://www.linkedin.com/in/sagar-panchal)
+- Twitter: [@SagarP2](https://twitter.com/SagarP2)
+- Email: sagar.panchal@example.com (replace with your actual email)
 
+---
 
+## ⚡ Fun Fact
 
+I enjoy exploring new technologies, optimizing code for performance, and contributing to open-source projects!
 
+---
+
+*Thank you for visiting my profile! Feel free to connect and collaborate.* 😊
