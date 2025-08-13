@@ -3,22 +3,24 @@
 <h3 align="center">🚀 Junior MERN Stack Developer | Innovative • Forward-Thinking • Adaptive</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SagarP2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sagar Panchal**, a passionate **Junior MERN Stack Developer** who loves building efficient, scalable, and user-friendly web applications.  
-I specialize in **React.js, Node.js, Express.js, MongoDB, AWS, TailwindCSS, and MySQL**, with skills in:  
+Hello! I'm **Sagar Panchal**, a passionate **Junior MERN Stack Developer** from **Gujarat, India**.  
+I have a **Bachelor's Degree in Information Technology** from **Uka Tarsadia University** and completed a **9-month MERN Stack internship at Sedulous® Infosys**.  
+
+I specialize in **React.js, Node.js, Express.js, MongoDB, AWS, TailwindCSS, and MySQL**, with strengths in:  
 
 - 🧩 **Problem Solving**
 - 🌍 **Cross-Platform Solutions**
 - ⚡ **Performance Optimization**
 - 📚 **Continuous Learning**
 
-💡 I’m **innovative**, **forward-thinking**, and **quick to adapt** to new technologies, always striving to push the boundaries of what’s possible.
+💡 I’m **innovative**, **forward-thinking**, and **quick to adapt** to new technologies — always striving to push the boundaries of what’s possible.
 
 ---
 
@@ -66,15 +68,15 @@ A personal website highlighting my skills, projects, and achievements in a sleek
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpanchal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarpanchal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpanchal&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -82,9 +84,10 @@ A personal website highlighting my skills, projects, and achievements in a sleek
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:panchalsagar992003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sagarpanchal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sagarpanchal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  📍 **Location:** Gujarat, India  
+  📧 **Email:** [panchalsagar992003@gmail.com](mailto:panchalsagar992003@gmail.com)  
+  🔗 **LinkedIn:** [linkedin.com/in/sagar-panchal-79284921a](https://linkedin.com/in/sagar-panchal-79284921a)  
+  💻 **GitHub:** [github.com/SagarP2](https://github.com/SagarP2)  
 </p>
 
 ---
