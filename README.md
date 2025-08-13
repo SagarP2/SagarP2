@@ -1,57 +1,66 @@
-# 👋 Hey there, I’m **Sagar Panchal**
+# 👋 Hey there, I’m **Sagar Panchal**  
 
+💻 **Full Stack Developer** | 🚀 **MERN Enthusiast** | 🛠 **Cloud & DevOps Explorer**  
 
-I’m a **Full Stack Developer** specializing in the **MERN stack** with an eye for clean, elegant code and scalable architecture.  
-Currently expanding my skillset at **BMIIT, UTU** — learning, experimenting, and pushing boundaries.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Frontend                       | Backend                      | Database                     | Cloud & DevOps                |
-|-------------------------------|------------------------------|------------------------------|------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28"/> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28"/> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="28"/> AWS |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="28"/> TailwindCSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="28"/> Express.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28"/> Docker |
+I specialize in building **scalable, high-performance web applications** with clean, maintainable code.  
+Currently pursuing my degree at **BMIIT, UTU**, where I’m pushing boundaries, experimenting with modern tech, and crafting projects that make an impact.  
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 Tech Stack & Tools  
+
+| **Frontend** | **Backend** | **Database** | **Cloud & DevOps** |
+|--------------|-------------|--------------|--------------------|
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React** | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js** | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **MongoDB** | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS** |
+| ![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) **TailwindCSS** | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js** | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL** | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker** |
+| ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) **Next.js** | ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg) **GraphQL** | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **MySQL** | ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **CI/CD** |
+
+---
+
+## 🌟 Featured Projects  
 
 | Project | Description | Live Demo | Code |
-|---|---|---|---|
-| 🚀 [ATS-System](https://github.com/SagarP2/ATS-System) | Automated recruitment platform leveraging MERN stack | [Demo](https://ats-system-live-link.com) | [GitHub](https://github.com/SagarP2/ATS-System) |
-| 🌐 [RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio) | MERN portfolio with AWS S3 integration | [Live](https://rabbitcodeportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/rabbitcode-portfolio) |
-| 🌐 [TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio) | React portfolio with Tailwind & admin panel | [Live](https://techvedaportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/Techveda-Portfolio) |
+|---------|-------------|-----------|------|
+| 🚀 **[ATS-System](https://github.com/SagarP2/ATS-System)** | AI-powered recruitment automation platform built with MERN | [Live Demo](https://ats-system-live-link.com) | [GitHub](https://github.com/SagarP2/ATS-System) |
+| 🌐 **[RabbitCode Portfolio](https://github.com/SagarP2/rabbitcode-portfolio)** | Developer portfolio with AWS S3 integration for asset management | [Live](https://rabbitcodeportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/rabbitcode-portfolio) |
+| 🎨 **[TechVeda Portfolio](https://github.com/SagarP2/Techveda-Portfolio)** | Sleek React + Tailwind portfolio with admin panel for content updates | [Live](https://techvedaportfolio.vercel.app) | [GitHub](https://github.com/SagarP2/Techveda-Portfolio) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical&count_private=true" alt="Sagar's GitHub Stats" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&theme=radical" height="170" alt="GitHub Streak" />
+</div>  
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sagarpanchal0918/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sagarpanchal0918/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SagarP2" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/SagarP2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:sagarpanchal0918@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts & Interests  
 
-> I enjoy optimizing code for performance, exploring new tech, and contributing to open-source projects.
+- 💡 Love exploring **cloud infrastructure** & **DevOps automation**  
+- 🎯 Passionate about **performance optimization** & **clean code**  
+- 📚 Currently diving into **Next.js 14** & **AI-driven applications**  
+- 🎮 When I’m not coding, I’m probably playing strategy games or binge-watching tech talks  
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Sagar Panchal</sub>
+  <sub>✨ Crafted with passion & caffeine by Sagar Panchal ✨</sub>
 </div>
