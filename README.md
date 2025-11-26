@@ -1,87 +1,98 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sagar Panchal</span></h1>
-<h3 align="center">🚀 Junior MERN Stack Developer | Innovative • Adaptive • Forward-Thinking</h3>
+<!-- TOP ANIMATED TITLE -->
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sagar+Panchal+👋;MERN+Stack+Developer;Shopify+App+Developer;I+Build+Modern%2C+Fast%2C+Scalable+Apps)
 
-<p align="center">
-  <a href="mailto:panchalsagar992003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sagar-panchal-79284921a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SagarP2">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchalsagar992003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-panchal-79284921a)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarP2)
+![Shopify Partner](https://img.shields.io/badge/Shopify_Partner-96BF00?style=for-the-badge&logo=shopify&logoColor=white)
 
-## 👨‍💻 About Me  
-
-I'm **Sagar Panchal**, a passionate **Junior MERN Stack Developer** from *Gujarat, India*.  
-🎓 Graduated in **Information Technology (2021–2024)** from *Uka Tarsadia University*  
-💼 Completed **MERN Internship at Sedulous® Infosys (2024–2025)**  
-
-I specialize in building **scalable, high-performance, and user-centric applications** using:  
-**React.js | Next.js | Node.js | Express.js | MongoDB | PostgreSQL | AWS | TailwindCSS | MySQL**  
-
-💡 Always curious, problem-solving driven, and exploring **DevOps & Cloud Technologies**.  
+</div>
 
 ---
 
-## 🛠 Tech Toolbox  
+# 🌟 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,next,nodejs,express,mongodb,postgresql,mysql,aws,tailwind,html,css,bootstrap,git,github,vscode" />
-</p>
+I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Developer** who loves building clean, fast and scalable applications.
 
----
-
-## 📌 Featured Projects  
-
-🔹 **[Company Portfolio](https://rabbitcodeportfolio.vercel.app/)**  
-*Tech:* React.js, Node.js, MongoDB  
-A professional company portfolio showcasing services, projects, and testimonials.  
-
-🔹 **[EditPDF Tool](https://edit-pdf-tools.vercel.app/)**  
-*Tech:* MERN, PDF-Lib  
-A PDF editing & annotation tool with browser-based export.  
-
-🔹 **[Rabbit Case Tool](https://rabbitcase-g3ck0nomk-priyanshupatel1253-gmailcoms-projects.vercel.app/)**  
-*Tech:* React.js, Node.js  
-A streamlined client case management tool with search & filters.  
-
-🔹 **[Personal Portfolio](https://sagarp2.github.io/SagarPanchal/)**  
-*Tech:* HTML, CSS, JavaScript  
-A clean and modern personal portfolio website.  
+- 💼 MERN Developer @ Sedulous® Infosys  
+- 🛒 Shopify App Development (Remix, GraphQL, OAuth, Billing, Webhooks)  
+- 🚀 Strong in APIs, Database Design & Full-Stack Architecture  
+- ☁️ Exploring AWS, CI/CD, Docker & DevOps  
+- ⚡ Focused on writing clean, optimized and modern code  
 
 ---
 
-## 🏆 Achievements  
+# 🛠 Tech Stack
 
-- 🎓 **Bachelor’s Degree in IT** – Uka Tarsadia University  
-- 💼 **MERN Internship** – Sedulous® Infosys  
-- 🥇 **Certifications:** Node.js, Python Fundamentals, Flutter for Beginners, NCAT Round 1  
-- 🚀 Deployed multiple projects on **Vercel, GitHub Pages & AWS**  
-- 💡 Known for **Problem-Solving & Innovative Solutions**  
+<div align="center">
 
----
+### 🚀 Core Development  
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,remix,nodejs,express" />
 
-## 📊 GitHub Insights  
+### 🗄 Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,graphql" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🛒 Shopify Ecosystem  
+<img src="https://skillicons.dev/icons?i=shopify" />
 
+### ⚙️ Tools & Cloud  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker" />
+
+</div>
 
 ---
 
-## 💡 Fun Fact  
+# 🚀 Featured Projects
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
+### 🔹 **Company Portfolio**  
+🔗 https://rabbitcodeportfolio.vercel.app/
+
+### 🔹 **EditPDF Tool**  
+🔗 https://edit-pdf-tools.vercel.app/
+
+### 🔹 **Rabbit Case Tool**  
+🔗 https://rabbitcase-g3ck0nomk-priyanshupatel1253-gmailcoms-projects.vercel.app/
+
+### 🔹 **Personal Portfolio**  
+🔗 https://sagarp2.github.io/SagarPanchal/
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+![snake gif](https://github.com/SagarP2/SagarP2/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 💬 Quote  
+> *"The best way to predict the future is to build it."* — Alan Kay  
+
+---
+
+# 📬 Connect  
+💌 Email: **panchalsagar992003@gmail.com**  
+🔗 Portfolio: **https://sagarp2.github.io/SagarPanchal/**  
