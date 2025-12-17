@@ -18,13 +18,13 @@
 
 # 🌟 About Me
 
-I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Developer** who loves building clean, fast and scalable applications.
+I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Developer** focused on building **clean, fast, and scalable applications** with production-ready architecture.
 
-- 💼 MERN Developer @ Sedulous® Infosys  
-- 🛒 Shopify App Development (Remix, GraphQL, OAuth, Billing, Webhooks)  
-- 🚀 Strong in APIs, Database Design & Full-Stack Architecture  
-- ☁️ Exploring AWS, CI/CD, Docker & DevOps  
-- ⚡ Focused on writing clean, optimized and modern code  
+- 💼 MERN Developer @ **Sedulous® Infosys**  
+- 🛒 Shopify App Development (**Remix, GraphQL, OAuth, Billing, Webhooks**)  
+- 🚀 Strong in **APIs, Database Design & Full-Stack Architecture**  
+- ☁️ Exploring **AWS, CI/CD, Docker & DevOps**  
+- ⚡ Focused on **clean, optimized, and maintainable code**
 
 ---
 
@@ -94,5 +94,8 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 ---
 
 # 📬 Connect  
-💌 Email: **panchalsagar992003@gmail.com**  
-🔗 Portfolio: **https://sagarp2.github.io/SagarPanchal/**  
+
+💌 **Email:** panchalsagar992003@gmail.com  
+🔗 **Portfolio:** https://sagarp2.github.io/SagarPanchal/  
+💼 **LinkedIn:** https://linkedin.com/in/sagar-panchal-79284921a  
+
