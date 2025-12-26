@@ -97,5 +97,4 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 💌 **Email:** panchalsagar992003@gmail.com  
 🔗 **Portfolio:** https://sagarp2.github.io/SagarPanchal/  
-💼 **LinkedIn:** https://linkedin.com/in/sagar-panchal-79284921a  
-
+💼 **LinkedIn:** https://www.linkedin.com/in/sagarpanchal0918/
