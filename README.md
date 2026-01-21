@@ -70,11 +70,11 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&hide_border=true&theme=transparent" />
+<img height="165" src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent&langs_count=10" />
 
 </div>
 
