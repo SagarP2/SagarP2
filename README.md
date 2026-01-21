@@ -83,9 +83,14 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 # 🐍 Snake Contribution Animation
 
 <div align="center">
-
-![snake gif](https://github.com/SagarP2/SagarP2/blob/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-snake.svg">
+    <img alt="GitHub Snake Contribution Animation"
+      src="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
