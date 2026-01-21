@@ -41,7 +41,15 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,graphql" />
 
 ### 🛒 Shopify Ecosystem  
-<img src="https://skillicons.dev/icons?i=shopify" />
+<a href="https://shopify.dev/">
+  <img src="https://cdn.simpleicons.org/shopify/96BF00" height="40" alt="Shopify" />
+</a>
+<a href="https://remix.run/">
+  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="Remix" />
+</a>
+<a href="https://graphql.org/">
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL" />
+</a>
 
 ### ⚙️ Tools & Cloud  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker" />
@@ -72,7 +80,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarP2&hide_border=true&theme=transparent" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent&langs_count=10" />
 
