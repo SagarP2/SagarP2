@@ -7,14 +7,24 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchalsagar992003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-panchal-79284921a)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarP2)
-![Shopify Partner](https://img.shields.io/badge/Shopify_Partner-96BF00?style=for-the-badge&logo=shopify&logoColor=white)
+<a href="mailto:panchalsagar992003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/sagar-panchal-79284921a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/SagarP2">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Shopify_Partner-96BF00?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Partner" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="Full">
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Coding Animation" />
+</div>
 
 ---
 
@@ -34,33 +44,33 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 <div align="center">
 
-### 🚀 Core Development  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+### 🚀 Core Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" style="margin: 0 10px;" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" style="margin: 0 10px;" /></a>
+<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="React" style="margin: 0 10px;" /></a>
+<a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="Next.js" style="margin: 0 10px;" /></a>
+<a href="https://remix.run/"><img src="https://cdn.simpleicons.org/remix/000000" height="50" alt="Remix" style="margin: 0 10px;" /></a>
+<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="Node.js" style="margin: 0 10px;" /></a>
+<a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/000000" height="50" alt="Express.js" style="margin: 0 10px;" /></a>
 
-### 🗄 Databases  
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+### 🗄 Databases
+<a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="MongoDB" style="margin: 0 10px;" /></a>
+<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL" style="margin: 0 10px;" /></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL" style="margin: 0 10px;" /></a>
+<a href="https://graphql.org/"><img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="GraphQL" style="margin: 0 10px;" /></a>
 
-### 🛒 Shopify Ecosystem  
-<a href="https://shopify.dev/"><img src="https://img.shields.io/badge/Shopify-96BF00?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
-<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
-<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+### 🛒 Shopify Ecosystem
+<a href="https://shopify.dev/"><img src="https://cdn.simpleicons.org/shopify/96BF00" height="50" alt="Shopify" style="margin: 0 10px;" /></a>
+<a href="https://remix.run/"><img src="https://cdn.simpleicons.org/remix/000000" height="50" alt="Remix" style="margin: 0 10px;" /></a>
+<a href="https://graphql.org/"><img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="GraphQL" style="margin: 0 10px;" /></a>
 
-### ⚙️ Tools & Cloud  
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+### ⚙️ Tools & Cloud
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" style="margin: 0 10px;" /></a>
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" height="50" alt="GitHub" style="margin: 0 10px;" /></a>
+<a href="https://www.postman.com/"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="Postman" style="margin: 0 10px;" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="VS Code" style="margin: 0 10px;" /></a>
+<a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="50" alt="AWS" style="margin: 0 10px;" /></a>
+<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="Docker" style="margin: 0 10px;" /></a>
 
 </div>
 
@@ -107,15 +117,19 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent&langs_count=10" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" height="150" alt="Streak Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent&langs_count=10" height="150" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,7 +139,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/SagarP2/SagarP2/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -138,6 +152,18 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 # 📬 Connect  
 
-💌 **Email:** panchalsagar992003@gmail.com  
-🔗 **Portfolio:** https://sagarp2.github.io/SagarPanchal/  
-💼 **LinkedIn:** https://www.linkedin.com/in/sagarpanchal0918/
+<div align="center">
+
+<a href="mailto:panchalsagar992003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-panchalsagar992003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<br/>
+<a href="https://sagarp2.github.io/SagarPanchal/">
+  <img src="https://img.shields.io/badge/Portfolio-sagarp2.github.io%2FSagarPanchal-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/sagarpanchal0918/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sagar_Panchal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
