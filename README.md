@@ -68,17 +68,40 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 # 🚀 Featured Projects
 
-### 🔹 **Company Portfolio**  
-🔗 https://rabbitcodeportfolio.vercel.app/
-
-### 🔹 **EditPDF Tool**  
-🔗 https://edit-pdf-tools.vercel.app/
-
-### 🔹 **Rabbit Case Tool**  
-🔗 https://rabbitcase-g3ck0nomk-priyanshupatel1253-gmailcoms-projects.vercel.app/
-
-### 🔹 **Personal Portfolio**  
-🔗 https://sagarp2.github.io/SagarPanchal/
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔹 Company Portfolio</h3>
+      <p>A professional portfolio website showcasing company services and projects.</p>
+      <a href="https://rabbitcodeportfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔹 EditPDF Tool</h3>
+      <p>An online tool for editing and managing PDF documents efficiently.</p>
+      <a href="https://edit-pdf-tools.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔹 Rabbit Case Tool</h3>
+      <p>A specialized tool for case management built with modern web tech.</p>
+      <a href="https://rabbitcase-g3ck0nomk-priyanshupatel1253-gmailcoms-projects.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔹 Personal Portfolio</h3>
+      <p>My personal portfolio highlighting my skills, projects, and experience.</p>
+      <a href="https://sagarp2.github.io/SagarPanchal/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
