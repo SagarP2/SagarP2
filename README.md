@@ -35,10 +35,41 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <div align="center">
 
 ### 🚀 Core Development  
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,remix,nodejs,express" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+</a>
+<a href="https://react.dev/">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
+</a>
+<a href="https://remix.run/">
+  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="Remix" />
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
+</a>
 
 ### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,graphql" />
+<a href="https://www.mongodb.com/">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+</a>
+<a href="https://graphql.org/">
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL" />
+</a>
 
 ### 🛒 Shopify Ecosystem  
 <a href="https://shopify.dev/">
@@ -52,7 +83,24 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 </a>
 
 ### ⚙️ Tools & Cloud  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker" />
+<a href="https://git-scm.com/">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+</a>
+<a href="https://github.com/">
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
+</a>
+<a href="https://aws.amazon.com/">
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+</a>
 
 </div>
 
