@@ -35,72 +35,32 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <div align="center">
 
 ### 🚀 Core Development  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
-</a>
-<a href="https://react.dev/">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
-</a>
-<a href="https://remix.run/">
-  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="Remix" />
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
 
 ### 🗄 Databases  
-<a href="https://www.mongodb.com/">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-</a>
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-</a>
-<a href="https://graphql.org/">
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL" />
-</a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
 
 ### 🛒 Shopify Ecosystem  
-<a href="https://shopify.dev/">
-  <img src="https://cdn.simpleicons.org/shopify/96BF00" height="40" alt="Shopify" />
-</a>
-<a href="https://remix.run/">
-  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="Remix" />
-</a>
-<a href="https://graphql.org/">
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL" />
-</a>
+<a href="https://shopify.dev/"><img src="https://img.shields.io/badge/Shopify-96BF00?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
+<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
 
 ### ⚙️ Tools & Cloud  
-<a href="https://git-scm.com/">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-</a>
-<a href="https://github.com/">
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
-</a>
-<a href="https://www.postman.com/">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
-</a>
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-</a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 
 </div>
 
