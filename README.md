@@ -90,6 +90,15 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 <table width="100%">
   <tr>
+    <td align="center" colspan="2">
+      <h3>🔹 Expense Tracker</h3>
+      <p>Master your money flow. Track, analyze, and optimize your spending.</p>
+      <a href="https://track-my-spend-wheat.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3>🔹 Company Portfolio</h3>
       <p>A professional portfolio website showcasing company services and projects.</p>
@@ -121,6 +130,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
       </a>
     </td>
   </tr>
+  
 </table>
 
 ---
