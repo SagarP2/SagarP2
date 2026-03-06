@@ -105,7 +105,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
   </tr>
   <tr>
   <td width="50%" align="center">
-      <h3>🔹 TechVeda Portfolio</h3>
+      <h3>🔹 Techveda. Portfolio</h3>
       <p>A modern and interactive portfolio website showcasing projects and skills.</p>
       <a href="https://techvedaportfolio.vercel.app/">
         <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
@@ -156,13 +156,13 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=dark&bg_color=00000000" height="150" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=dark&bg_color=00000000&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
     </td>
     <td align="center" width="33%">
       <img src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" height="150" alt="Streak Stats" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10" height="150" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10&count_private=true" height="150" alt="Top Languages" />
     </td>
   </tr>
 </table>
