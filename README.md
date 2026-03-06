@@ -32,10 +32,10 @@
 
 I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Developer** focused on building **clean, fast, and scalable applications** with production-ready architecture.
 
-- 💼 MERN Developer @ **Rabbitcode® Infosys**  
-- 🛒 Shopify App Development (**Remix, GraphQL, OAuth, Billing, Webhooks**)  
-- 🚀 Strong in **APIs, Database Design & Full-Stack Architecture**  
-- ☁️ Exploring **AWS, CI/CD, Docker & DevOps**  
+- 💼 MERN Developer @ **Rabbitcode® Infosys**
+- 🛒 Shopify App Development (**Remix, GraphQL, OAuth, Billing, Webhooks**)
+- 🚀 Strong in **APIs, Database Design & Full-Stack Architecture**
+- ☁️ Exploring **AWS, CI/CD, Docker & DevOps**
 - ⚡ Focused on **clean, optimized, and maintainable code**
 
 ---
@@ -45,6 +45,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <div align="center">
 
 ### 🚀 Core Development
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
@@ -55,6 +56,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
 
 ### 🗄 Databases
+
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
@@ -63,11 +65,13 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
 
 ### 🛒 Shopify Ecosystem
+
 <a href="https://shopify.dev/"><img src="https://img.shields.io/badge/Shopify-96BF00?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /></a>
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
 <a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
 
 ### ⚙️ Tools & Cloud
+
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
@@ -79,6 +83,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 
 ### 🤖 AI & Emerging Tech
+
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
 <a href="https://sdk.vercel.ai/"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" /></a>
 
@@ -99,6 +104,13 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
     </td>
   </tr>
   <tr>
+  <td width="50%" align="center">
+      <h3>🔹 TechVeda Portfolio</h3>
+      <p>A modern and interactive portfolio website showcasing projects and skills.</p>
+      <a href="https://techvedaportfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
     <td width="50%" align="center">
       <h3>🔹 Company Portfolio</h3>
       <p>A professional portfolio website showcasing company services and projects.</p>
@@ -106,13 +118,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
         <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <h3>🔹 EditPDF Tool</h3>
-      <p>An online tool for editing and managing PDF documents efficiently.</p>
-      <a href="https://edit-pdf-tools.vercel.app/">
-        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
+    
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -123,6 +129,16 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
       </a>
     </td>
     <td width="50%" align="center">
+      <h3>🔹 EditPDF Tool</h3>
+      <p>An online tool for editing and managing PDF documents efficiently.</p>
+      <a href="https://edit-pdf-tools.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <h3>🔹 Personal Portfolio</h3>
       <p>My personal portfolio highlighting my skills, projects, and experience.</p>
       <a href="https://sagarp2.github.io/SagarPanchal/">
@@ -140,13 +156,13 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SagarP2&show_icons=true&rank_icon=github&hide_border=true&theme=dark&bg_color=00000000" height="150" alt="GitHub Stats" />
     </td>
     <td align="center" width="33%">
       <img src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" height="150" alt="Streak Stats" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=transparent&langs_count=10" height="150" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10" height="150" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -165,12 +181,13 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 
 ---
 
-# 💬 Quote  
-> *"The best way to predict the future is to build it."* — Alan Kay  
+# 💬 Quote
+
+> _"The best way to predict the future is to build it."_ — Alan Kay
 
 ---
 
-# 📬 Connect  
+# 📬 Connect
 
 <div align="center">
 
