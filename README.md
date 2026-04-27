@@ -49,10 +49,10 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+<a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
 
 ### 🗄 Databases
@@ -98,7 +98,7 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
     <td align="center" colspan="2">
       <h3>🔹 Expense Tracker</h3>
       <p>Master your money flow. Track, analyze, and optimize your spending.</p>
-      <a href="https://track-my-spend-wheat.vercel.app/">
+      <a href="https://track-my-spend-zeta.vercel.app/">
         <img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
     </td>
