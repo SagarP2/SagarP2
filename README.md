@@ -162,8 +162,8 @@ I'm **Sagar Panchal**, a passionate **MERN Stack Developer & Shopify App Develop
       <img src="https://streak-stats.demolab.com?user=SagarP2&hide_border=true&theme=transparent" height="150" alt="Streak Stats" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SagarP2&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10&count_private=true" height="150" alt="Top Languages" />
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP2&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8&count_private=true&hide=jupyter%20notebook,asp.net,php,c%23" height="150" alt="Top Languages" />
+</td>
   </tr>
 </table>
 
